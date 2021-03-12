@@ -12,5 +12,7 @@ Said screen would allow the driver to change how the lights displayed colour for
 
 I would like this to eventually include a dashboard with different modes including the ability to create custom animations
 
+![alt text](https://finalformusa.com/wp-content/uploads/2016/08/28828938191_c99fa2be6a_k-848x537.jpg)
+
 I am happy for anyone to have a look at this project and use this project on their own car
 Do not claim this project is yours and do not sell this idea or any product you make as profit
