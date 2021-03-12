@@ -1,4 +1,10 @@
+LED's
+
 https://core-electronics.com.au/5m-rgb-led-strip-ws2812-144-per-meter-black-strip-weatherproof.html
 https://cdn-shop.adafruit.com/datasheets/WS2812.pdf
 Above is programmable RGB LED Strip and the Data Sheet for the LED's included
+
+
+
+
 
